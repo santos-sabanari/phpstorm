@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ttf" type="AUTO_DETECTED" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping ext="neon" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
