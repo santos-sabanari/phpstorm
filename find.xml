@@ -12,7 +12,7 @@
     <mask>*Datatable.php</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
-    <mask>*.blade.php</mask>
     <mask>r_*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
