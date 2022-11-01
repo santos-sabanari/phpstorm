@@ -4,6 +4,7 @@
       <mapping ext="ttf" type="AUTO_DETECTED" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping ext="neon" approved="true" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
