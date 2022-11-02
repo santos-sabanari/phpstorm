@@ -12,7 +12,18 @@
     <option name="widgets">
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="Encoding" value="false" />
+        <entry key="FlowJSInfo" value="false" />
+        <entry key="GridAggregator" value="false" />
+        <entry key="GridPosition" value="false" />
+        <entry key="InsertOverwrite" value="false" />
+        <entry key="JSONSchemaSelector" value="false" />
+        <entry key="LineSeparator" value="false" />
         <entry key="Notifications" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="git" value="false" />
         <entry key="mtProjectFactory" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
