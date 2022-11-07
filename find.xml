@@ -26,6 +26,7 @@
     <mask>r_*.php</mask>
     <mask>*.blade.php</mask>
     <mask>export.blade.php</mask>
+    <mask>Index.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
