@@ -28,6 +28,7 @@
     <mask>*blade.php</mask>
     <mask>*show.blade.php</mask>
     <mask>export.blade.php</mask>
+    <mask>*create.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
